@@ -21,11 +21,12 @@
     background: var(--cor-primaria);
     height: 100vh;
     display: flex;
-    align-items: center;
+    align-items: center;/**/
     justify-content: center;
 
 }
 .bloco-login{
+    
     background-color: white;
     padding: 5rem;
     border-radius: 5rem;
@@ -42,3 +43,4 @@
     margin-top: 0.8rem;
     width: 20rem;
 }
+
